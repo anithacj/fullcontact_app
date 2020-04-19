@@ -410,7 +410,7 @@ function view_contact_html($contact){
 function mc_contact_shortcode() {
 	ob_start();
 	$srch = '';
-	if (! empty( $_POST )) {
+	if (! empty( $_POST['search_txt'] )) {
 		$srch = $_POST['search_txt'];
 	}
 	list_contacts($srch);

@@ -5,12 +5,15 @@ jQuery(function($) {
             rules: {
                 first_name: "required",
                 last_name: "required",
-                phone_number: "required"
+                phone_number: {
+                    required: true,
+                    number: true
+                }
             },
             messages: {
               firstname: "First Name is required",
               lastname: "Last Name is required",
-              phone_number: "Phone number is required"
+              phone_number: "Valid Phone number is required"
             },
             submitHandler: function(form) {
                 var mail = $("#email_address").val();
