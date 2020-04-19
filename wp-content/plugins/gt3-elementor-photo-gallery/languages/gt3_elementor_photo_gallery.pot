@@ -1,0 +1,303 @@
+# Copyright (C) 2018 Theme Core
+# This file is distributed under the same license as the Theme Core package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Theme Core\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: elementor/controls/gallery.php:44
+msgid "+ Add Image"
+msgstr ""
+
+#: elementor/cpt/gallery/init.php:39
+msgid "GT3 Galleries"
+msgstr ""
+
+#: elementor/cpt/gallery/init.php:63, elementor/cpt/gallery/init.php:64, elementor/cpt/gallery/init.php:100, elementor/widgets/grid.php:502, elementor/widgets/masonry.php:405
+msgid "Category"
+msgstr ""
+
+#: elementor/cpt/gallery/init.php:72
+msgid "Gallery Images"
+msgstr ""
+
+#: elementor/cpt/gallery/init.php:98
+msgid "Image"
+msgstr ""
+
+#: elementor/cpt/gallery/init.php:99, elementor/widgets/grid.php:473, elementor/widgets/masonry.php:376
+msgid "Title"
+msgstr ""
+
+#: elementor/cpt/gallery/init.php:101
+msgid "Date"
+msgstr ""
+
+#: elementor/cpt/gallery/init.php:126
+msgid "No Image Selected"
+msgstr ""
+
+#: elementor/cpt/gallery/init.php:203, plugin.php:157
+msgid "(No Title)"
+msgstr ""
+
+#: elementor/cpt/gallery/init.php:239, plugin.php:266
+msgctxt "media"
+msgid "+ Add Media"
+msgstr ""
+
+#: elementor/cpt/gallery/init.php:240, plugin.php:267
+msgctxt "media"
+msgid "Clear Gallery"
+msgstr ""
+
+#: elementor/cpt/gallery/init.php:241, plugin.php:268
+msgctxt "media"
+msgid " file selected"
+msgstr ""
+
+#: elementor/cpt/gallery/init.php:242, plugin.php:269
+msgctxt "media"
+msgid " files selected"
+msgstr ""
+
+#: elementor/cpt/gallery/init.php:243, plugin.php:270
+msgctxt "media"
+msgid "Remove"
+msgstr ""
+
+#: elementor/cpt/gallery/init.php:244, plugin.php:271
+msgctxt "media"
+msgid "Edit"
+msgstr ""
+
+#: elementor/cpt/gallery/init.php:245, plugin.php:272
+msgctxt "media"
+msgid "View"
+msgstr ""
+
+#: elementor/cpt/gallery/init.php:246, plugin.php:273
+msgctxt "media"
+msgid "No Title"
+msgstr ""
+
+#: elementor/cpt/gallery/init.php:247, plugin.php:274
+msgctxt "media"
+msgid "Select Files"
+msgstr ""
+
+#: elementor/cpt/gallery/init.php:248, plugin.php:275
+msgctxt "media"
+msgid "or"
+msgstr ""
+
+#: elementor/cpt/gallery/init.php:249, plugin.php:276
+msgctxt "media"
+msgid "Drop Files Here to Upload"
+msgstr ""
+
+#: elementor/widgets/grid.php:28
+msgid "Grid"
+msgstr ""
+
+#: elementor/widgets/grid.php:211, elementor/widgets/masonry.php:128
+msgid "Select Source"
+msgstr ""
+
+#: elementor/widgets/grid.php:214, elementor/widgets/masonry.php:131
+msgid "Module Images"
+msgstr ""
+
+#: elementor/widgets/grid.php:215, elementor/widgets/masonry.php:132
+msgid "Gallery"
+msgstr ""
+
+#: elementor/widgets/grid.php:224, elementor/widgets/masonry.php:141
+msgid "Select Gallery"
+msgstr ""
+
+#: elementor/widgets/grid.php:254
+msgid "Grid Type"
+msgstr ""
+
+#: elementor/widgets/grid.php:257
+msgid "Vertical Align"
+msgstr ""
+
+#: elementor/widgets/grid.php:258
+msgid "Square"
+msgstr ""
+
+#: elementor/widgets/grid.php:259
+msgid "Rectangle"
+msgstr ""
+
+#: elementor/widgets/grid.php:268, elementor/widgets/masonry.php:171
+msgid "Cols"
+msgstr ""
+
+#: elementor/widgets/grid.php:283, elementor/widgets/masonry.php:186
+msgid "Grid Gap"
+msgstr ""
+
+#: elementor/widgets/grid.php:317, elementor/widgets/masonry.php:220
+msgid "Hover Effect"
+msgstr ""
+
+#: elementor/widgets/grid.php:320, elementor/widgets/masonry.php:223
+msgid "None"
+msgstr ""
+
+#: elementor/widgets/grid.php:321, elementor/widgets/masonry.php:224
+msgid "Type 1"
+msgstr ""
+
+#: elementor/widgets/grid.php:322, elementor/widgets/masonry.php:225
+msgid "Type 2"
+msgstr ""
+
+#: elementor/widgets/grid.php:323, elementor/widgets/masonry.php:226
+msgid "Type 3"
+msgstr ""
+
+#: elementor/widgets/grid.php:324, elementor/widgets/masonry.php:227
+msgid "Type 4"
+msgstr ""
+
+#: elementor/widgets/grid.php:325, elementor/widgets/masonry.php:228
+msgid "Type 5"
+msgstr ""
+
+#: elementor/widgets/grid.php:335, elementor/widgets/masonry.php:238
+msgid "Lightbox"
+msgstr ""
+
+#: elementor/widgets/grid.php:343, elementor/widgets/masonry.php:246
+msgid "Show Title"
+msgstr ""
+
+#: elementor/widgets/grid.php:351, elementor/widgets/masonry.php:254
+msgid "Show Category"
+msgstr ""
+
+#: elementor/widgets/grid.php:362, elementor/widgets/masonry.php:265
+msgid "Post Per Load"
+msgstr ""
+
+#: elementor/widgets/grid.php:373, elementor/widgets/masonry.php:276
+msgid "Show \"See More\" Button"
+msgstr ""
+
+#: elementor/widgets/grid.php:381, elementor/widgets/masonry.php:284
+msgid "See Items"
+msgstr ""
+
+#: elementor/widgets/grid.php:395, elementor/widgets/masonry.php:298
+msgid "Button Type"
+msgstr ""
+
+#: elementor/widgets/grid.php:398, elementor/widgets/masonry.php:301
+msgid "Default"
+msgstr ""
+
+#: elementor/widgets/grid.php:399, elementor/widgets/masonry.php:302
+msgid "Icon"
+msgstr ""
+
+#: elementor/widgets/grid.php:411, elementor/widgets/masonry.php:314
+msgid "Button Border"
+msgstr ""
+
+#: elementor/widgets/grid.php:423, elementor/widgets/masonry.php:326
+msgid "Button Icon"
+msgstr ""
+
+#: elementor/widgets/grid.php:435, elementor/widgets/masonry.php:338
+msgid "Button Title"
+msgstr ""
+
+#: elementor/widgets/grid.php:437, elementor/widgets/masonry.php:340
+msgid "See More"
+msgstr ""
+
+#: elementor/widgets/grid.php:447, elementor/widgets/masonry.php:350
+msgid "Icon Spacing"
+msgstr ""
+
+#: elementor/widgets/grid.php:481, elementor/widgets/grid.php:514, elementor/widgets/masonry.php:384, elementor/widgets/masonry.php:417
+msgid "Title Color"
+msgstr ""
+
+#: elementor/widgets/grid.php:604, elementor/widgets/masonry.php:587
+msgid "All"
+msgstr ""
+
+#: elementor/widgets/grid.php:609, elementor/widgets/grid.php:699, elementor/widgets/masonry.php:592
+msgid "Load More"
+msgstr ""
+
+#: elementor/widgets/masonry.php:29
+msgid "Masonry"
+msgstr ""
+
+#: elementor/widgets/masonry.php:682
+msgid "More"
+msgstr ""
+
+#: gt3-elementor-photo-gallery.php:12
+msgid "Support Forum"
+msgstr ""
+
+#: gt3-elementor-photo-gallery.php:13
+msgid "Rate"
+msgstr ""
+
+#: init.php:62
+msgid "%1$s requires PHP version %2$s+, plugin is currently NOT ACTIVE."
+msgstr ""
+
+#: init.php:80
+msgid "%1$s is not working because you need to activate the %2$s plugin."
+msgstr ""
+
+#: init.php:81
+msgid "Activate %s Now"
+msgstr ""
+
+#: init.php:89
+msgid "%1$s is not working because you need to install the %2$s plugin."
+msgstr ""
+
+#: init.php:90
+msgid "Install %s Now"
+msgstr ""
+
+#: plugin.php:277
+msgctxt "media"
+msgid "Are you really want remove all images?"
+msgstr ""
+
+#: plugin.php:278
+msgctxt "media"
+msgid "Images Selected "
+msgstr ""
+
+#: plugin.php:279
+msgctxt "media"
+msgid "No Images Selected"
+msgstr ""
+
+#: plugin.php:280
+msgctxt "media"
+msgid "Clear"
+msgstr ""
+
+#: plugin.php:281
+msgctxt "media"
+msgid "Insert media"
+msgstr ""

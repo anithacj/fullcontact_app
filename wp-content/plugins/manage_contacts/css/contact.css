@@ -1,0 +1,64 @@
+* {box-sizing: border-box;}
+body {
+	margin: 0;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.topnav {
+  	overflow: hidden;
+}
+.topnav .search-container {
+  	float: right;
+}
+.entry-header{
+	display: none;
+}
+.post-inner {
+    padding-top: 0 !important;
+}
+.error {
+    font-size: 12px !important;
+    margin-top: 2px;
+    color: #e81e1e !important;
+}
+
+.search-container button {
+  float: right;
+  padding: 6px 10px;
+  margin-top: 8px;
+  margin-right: 16px;
+  background: #ddd;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+}
+
+.search-container button:hover {
+  background: #ccc;
+}
+
+#succmsg {
+	display: none;
+	color: green;
+}
+
+#errormsg {
+	display: none;
+	color: red;
+
+
+@media screen and (max-width: 600px) {
+  .search-container {
+    float: none;
+  }
+  .search-container input[type=text], .search-container button {
+    float: none;
+    display: block;
+    text-align: left;
+    width: 100%;
+    margin: 0;
+    padding: 14px;
+  }
+  .search-container input[type=text] {
+    border: 1px solid #ccc;  
+  }
+}
